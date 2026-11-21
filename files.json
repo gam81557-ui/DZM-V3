@@ -1,6 +1,7 @@
 {
   "maintenance": false,
   "maintenanceMessage": "ခဏစောင့်ပေးပါ၊ ဖိုင်အသစ် ပြင်နေပါတယ်။",
+  "requireAdForDownload": true,
   "announcement": "",
   "notice": {
     "enabled": false,
