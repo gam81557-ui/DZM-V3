@@ -1,0 +1,30 @@
+{
+  "maintenance": false,
+  "maintenanceMessage": "ခဏစောင့်ပေးပါ၊ ဖိုင်အသစ် ပြင်နေပါတယ်။",
+  "announcement": "",
+  "notice": {
+    "enabled": false,
+    "id": "dzm-v2-notice-01",
+    "type": "info",
+    "title": "အသိပေးချက်",
+    "message": "Version Update မြင့်တင်ပါ။",
+    "dismissible": true
+  },
+  "thumbnails": {
+    "file_01": "https://github.com/gam81557-ui/pubg-control/releases/download/2.0/IMG_20261121_083905_716.jpg",
+    "files.zip": "https://github.com/gam81557-ui/pubg-control/releases/download/2.0/IMG_20261121_083905_716.jpg"
+  },
+  "files": [
+    {
+      "id": "file_01",
+      "title": "V11 key-LOVELYxHORAA",
+      "description": "Bit :- 32-64Bit\nUpdated :- 4.7\nVersion :-key-LOVELYxHORAA Bypass\n\nFeatures :\n• Real - Esp (Line Box)\n• Esp - Health Name\n• Kill Message + Skins\n• Wall Hack Customize\n• Pvt Small Crosshair\n• Bot Enemy Counter\n• 165 - Fps Unlock Mx\n• Esp ~ Health Name\n• Lag ~ Fixed\n• Crashed ~ Fixed\n• No Need To Buy\n• No Need To Password\n• Upgrade Bypass Add\n\n• Main Account 100% Safe\n• Online Update Feature\n• Termination Ban Fixed\n• Observation Ban Fixed",
+      "versionKey": "all",
+      "enabled": true,
+      "sizeLabel": "ZIP Pack",
+      "downloadUrl": "https://github.com/gam81557-ui/pubg-control/releases/download/V1.0/files.zip",
+      "targetSubPath": "",
+      "fileName": "files.zip"
+    }
+  ]
+}
