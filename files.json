@@ -13,7 +13,7 @@
   },
   "thumbnails": {
     "file_01": "https://github.com/gam81557-ui/DZM-App/releases/download/file/cd99be37586aef305db6c2bacb38fec3.jpg",
-    "files.zip": "https://github.com/gam81557-ui/pubg-control/releases/download/2.0/IMG_20261121_083905_716.jpg"
+    "files.zip": "https://github.com/gam81557-ui/DZM-App/releases/download/file/cd99be37586aef305db6c2bacb38fec3.jpg"
   },
   "files": [
     {
@@ -23,7 +23,7 @@
       "versionKey": "all",
       "enabled": true,
       "sizeLabel": "ZIP Pack",
-      "downloadUrl": "https://github.com/gam81557-ui/pubg-control/releases/download/V1.0/files.zip",
+      "downloadUrl": "https://github.com/gam81557-ui/DZM-App/releases/download/file/files.zip",
       "targetSubPath": "",
       "fileName": "files.zip"
     }
